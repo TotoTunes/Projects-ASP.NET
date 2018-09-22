@@ -1,0 +1,13 @@
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\bin\Debug\netcoreapp2.1\LES2.deps.json
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\bin\Debug\netcoreapp2.1\LES2.runtimeconfig.json
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\bin\Debug\netcoreapp2.1\LES2.runtimeconfig.dev.json
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\bin\Debug\netcoreapp2.1\LES2.dll
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\bin\Debug\netcoreapp2.1\LES2.pdb
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\obj\Debug\netcoreapp2.1\LES2.csproj.CoreCompileInputs.cache
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\obj\Debug\netcoreapp2.1\LES2.RazorAssemblyInfo.cache
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\obj\Debug\netcoreapp2.1\LES2.RazorAssemblyInfo.cs
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\obj\Debug\netcoreapp2.1\LES2.AssemblyInfoInputs.cache
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\obj\Debug\netcoreapp2.1\LES2.AssemblyInfo.cs
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\obj\Debug\netcoreapp2.1\LES2.RazorTargetAssemblyInfo.cache
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\obj\Debug\netcoreapp2.1\LES2.dll
+D:\Documenten\School\2018 - 2019\ASP.NET\Projects\LES2\LES2\obj\Debug\netcoreapp2.1\LES2.pdb
